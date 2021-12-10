@@ -1,0 +1,43 @@
+body, html
+{
+	height: 99%;
+	width: 99%;
+	background: #2F4F4F;
+}
+.div1
+{
+	height: 15%;
+	text-align: center;
+}
+#input
+{
+	height: 30%;
+	width: 20%;
+	font-size: 20px;
+}
+.div2
+{
+	margin: auto;
+	height: 69%;
+	width: 37%;
+	border-radius: 50%;
+	font-size: 55px;
+	text-align: center;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	font-family: calibri;
+	background-image: url(img1.png);
+	background-position: center;
+	background-repeat: none;
+	background-size: cover;
+	color: #7FFFD4;
+	
+}
+.button
+{
+	height: 36.31%;
+	width: 10%;
+	margin: 0 0 0 0.5%;
+	font-size: 20px;
+}
