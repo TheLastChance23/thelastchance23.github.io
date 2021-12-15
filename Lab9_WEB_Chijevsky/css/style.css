@@ -1,0 +1,72 @@
+body, html
+{
+	height: 90%;
+	width: 99%;
+	background: #FFFAFA;
+}
+#cont1, #cont2, #cont3
+{
+	font-family: calibri;
+	padding: 9% 0 0 0;
+	display: flex;
+	justify-content: center;
+	align-items: center	;
+	
+}
+#cont1 div
+{
+	margin: 0 7.5% 0 7.5%;
+}
+#cont2 div
+{	
+	border: 1px solid black;
+	text-align: center;
+	margin: -10% 10% 0 10%;
+}
+
+#cont3 div
+{
+	margin: -10% 0 0 0;
+}
+#user, #comp
+{
+	height: 5%;
+	width: 20%;
+	font-size: 2em;
+	text-align: center;
+}
+#div1
+{
+	height: 5%;
+	width: 15%;
+	font-size: 1.9em;
+	border-radius: 30px;
+	background-color: #87CEEB;
+}
+#div2
+{
+	height: 5%;
+	width: 15%;
+	font-size: 1.9em;
+	border-radius: 30px;
+	background-color: #87CEEB;
+}
+#div3 
+{
+	font-size: 0px;
+}
+#div4
+{
+	height: 10%;
+	width: 20%;
+	text-align: center;
+}
+#button
+{
+	font-size: 30px;
+	border-radius: 0.5em;
+}
+#div5
+{
+	font-size: 0px;
+}
